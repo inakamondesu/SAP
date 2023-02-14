@@ -38,8 +38,8 @@ SAP Cloud Appliance Libraryにて、BW/4HANAの環境を構築してみたので
 
 <img width="700" alt="画像14.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3148468/c450c7ab-5ee6-8979-b6f8-cfcc38f552df.png">
 
-左のメニューバーの「Appliance Tamplates」から検索ボックスにて「BW/4HANA」を入力し、検索
-検索結果より、構築したいテンプレートを選択(※)
+左のメニューバーの「Appliance Tamplates」から検索ボックスにて「BW/4HANA」を入力  
+検索結果より、構築したいテンプレートを選択(※)  
 (私はType：Devを選択しました)
 
 <img width="700" alt="画像15.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3148468/2d0e274c-fb2f-b5bd-24e9-225f9c9bf86b.png">
@@ -56,6 +56,7 @@ SAP Cloud Appliance Libraryにて、BW/4HANAの環境を構築してみたので
 
 <img width="700" alt="画像16.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3148468/6e2e8fe4-8054-bd7f-23ec-5b407380225c.png">
 以下を入力し、「Test Connection」を押下
+
 |項目|値|備考|
 |:-|:-|:-|
 |Cloud Provider|Amazon Web Services|構築する環境を選択|
