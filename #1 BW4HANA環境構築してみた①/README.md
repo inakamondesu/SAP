@@ -52,22 +52,21 @@ AWSにログインし、ユーザ名の右にある▼から「セキュリテ�
 ユーザーの詳細情報を指定  
 <img width="700" alt="画像8.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3148468/e0122ee6-2592-09d6-2f18-117f7813386d.png">
 
-許可を設定
-(私の場合、ポリシー「AdministratorAccess」のみを選択しました)
+許可を設定  
+(私の場合、ポリシー「AdministratorAccess」のみを選択しました)  
 <img width="700" alt="画像9.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3148468/1ff9f116-2bc6-cf67-4ca4-99d1ce021db4.png">
 
-ユーザの作成を押下
-
+ユーザの作成を押下  
 <img width="700" alt="画像10.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3148468/43fb77a2-f4af-a0ee-e992-eb6b1bfd3b95.png">
 
 これでユーザの作成は完了です。
 
 #### 1-3. AWS：アクセスキー作成
-先ほど作成したユーザにて、AWSにログイン
-ダッシュボード　＞　アクセスキー管理　より、アクセスキーを作成
+先ほど作成したユーザにて、AWSにログイン  
+ダッシュボード　＞　アクセスキー管理　より、アクセスキーを作成  
 <img width="700" alt="画像11.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3148468/2969d503-cb54-e909-fc94-b60c7ac20789.png">
 
-アクセスキーを取得し、csvファイルをダウンロード
+アクセスキーを取得し、csvファイルをダウンロード  
 <img width="700" alt="画像12.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3148468/de051871-374b-fab0-aed6-b84f240dc735.png">
 
 これでアクセスキーの作成は完了です。
