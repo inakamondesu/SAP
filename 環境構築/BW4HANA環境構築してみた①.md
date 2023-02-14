@@ -24,6 +24,7 @@ SAP Cloud Appliance Libraryにて、BW/4HANAの環境を構築してみたので
 
 #### 1-1. AWS：アカウント作成
 以下URLからアカウントを作成
+
 [AWS - アカウント作成](https://aws.amazon.com/jp/free/?gclid=CjwKCAiAuaKfBhBtEiwAht6H7w2NRGDC202LQMDN-XDJo1KKdI34LeFDoV0lrvgm77aZZ3HIfdc9nhoCQ_oQAvD_BwE&trk=340f68be-e761-4b5a-b753-222dc31677b5&sc_channel=ps&s_kwcid=AL!4422!3!618145042463!p!!g!!amazon%20web%20services&ef_id=CjwKCAiAuaKfBhBtEiwAht6H7w2NRGDC202LQMDN-XDJo1KKdI34LeFDoV0lrvgm77aZZ3HIfdc9nhoCQ_oQAvD_BwE:G:s&s_kwcid=AL!4422!3!618145042463!p!!g!!amazon%20web%20services&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
 
 下図中央左の「無料アカウントを作成」を押下
