@@ -35,7 +35,7 @@ SAP Cloud Appliance Libraryにて、BW/4HANAの環境を構築してみたので
 <img width="700" alt="画像3.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3148468/2da2b462-39a6-bcb7-e635-fcd0e7c73da8.png">
 
 サポートプランを選択
-(私は無料の「ベーシックサポート」を選択しました)
+(私は無料の「ベーシックサポート」を選択しました)  
 <img width="700" alt="画像4.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3148468/d009ab1d-2077-1305-7cb8-0bcdea906c90.png">
 
 <img width="700" alt="画像5.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3148468/ce907bed-33be-bd77-ecb3-6b8fc5b73201.png">
@@ -43,14 +43,13 @@ SAP Cloud Appliance Libraryにて、BW/4HANAの環境を構築してみたので
 これでAWSアカウントの作成は完了です。
 
 #### 1-2. AWS：ユーザ作成
-AWSにログインし、ユーザ名の右にある▼から「セキュリティ認証情報」を押下
+AWSにログインし、ユーザ名の右にある▼から「セキュリティ認証情報」を押下  
 <img width="700" alt="画像6.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3148468/c01b17f7-1ba8-608c-1503-085d7667c10e.png">
 
-アクセス管理配下の　ユーザー ＞ ユーザーを追加　から下図のようユーザを作成
+アクセス管理配下の　ユーザー ＞ ユーザーを追加　から下図のようユーザを作成 
 <img width="700" alt="画像7.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3148468/5a8e69ff-b69d-ce51-9f37-80fd5d92a037.png">
 
-ユーザーの詳細情報を指定
-
+ユーザーの詳細情報を指定  
 <img width="700" alt="画像8.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3148468/e0122ee6-2592-09d6-2f18-117f7813386d.png">
 
 許可を設定
