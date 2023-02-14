@@ -1,5 +1,5 @@
 # BW/4HANA環境構築してみた①  
-SAP Cloud Appliance Libraryにて、BW/4HANAの環境を構築してみたので、ざっと手順をシェアしたいと思います。
+SAP Cloud Appliance Libraryにて、BW/4HANAの環境を構築してみたので、ざっと手順をシェアしたいと思います。  
 本記事では、下記手順の1について、記述しております。
 
 手順
