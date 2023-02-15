@@ -86,6 +86,7 @@ ADTのインストールと同様の手順でBWMTをインストール
 
 これでBW Modeling Toolのインストールが完了です
 
+
 #### 4-ⅳ. HANA Studio：BW Projectの作成
 メニューバーのWindow > Perspective > Open Perspective > Other を押下  
 <img width="700" alt="画像30.png" src="https://user-images.githubusercontent.com/125335793/218677279-4ccb2414-5fbe-466f-bc87-48ad60dacbc2.png">
