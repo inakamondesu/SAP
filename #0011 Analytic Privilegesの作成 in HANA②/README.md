@@ -1,4 +1,4 @@
-# Analytic Privilegesの作成 in SAP HANA②
+# Analytic Privilegesの作成 in HANA②
 本記事では、Analytic Privilegeの概要と作成手順を記載しております。  
 また、下記内容の3を後述しております。
 
