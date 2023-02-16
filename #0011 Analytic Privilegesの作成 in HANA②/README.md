@@ -27,7 +27,7 @@ File Name/File Format/Target Schemaを設定し、「Finish」を押下
 >3. ProcedureのOUTPUT = 'SALESORG = V_FILTER'
 
 SQL文を記述し、Activate  
-<img width="700" alt="画像12.png" src="https://user-images.githubusercontent.com/125335793/219256701-d795e1f2-0971-4305-aa08-79358d7bc5d0.png">
+<img width="700" alt="画像12.png" src="https://user-images.githubusercontent.com/125335793/219336622-2d5bb72d-4070-442c-9c3d-e2d66b325ceb.png">
 
 Attributesと同様の手順でAnalytic Privilegeを作成  
 表示されたタブ右上にて、Dynamicを選択し、作成したProcedureを割り当てる
