@@ -6,7 +6,7 @@
 1. Calculation Viewのフィルタ設定  
 ①#0012で作成したDynamic filter  
 ②Projectionノードにべた書きしたfilter  
-2. 2つのフィルタを実装したCalculation Viewのクエリ結果の比較
+2. Calculation Viewのクエリ結果の比較
 ---
 
 #### 1. Calculation Viewのフィルタ設定    
@@ -22,7 +22,7 @@
 ```  
 <img width="700" alt="画像9.png" src="https://user-images.githubusercontent.com/125335793/219695260-7548449b-a2a2-4280-8375-ea7da05cb093.png">  
 
-#### 2. 2つのフィルタを実装したCalculation Viewのクエリ結果の比較
+#### 2. Calculation Viewのクエリ結果の比較
 Calculation Viewのクエリ結果の比較は、以下になりました。  
 |フィルタ||||  
 |:-|:-|:-|:-|    
