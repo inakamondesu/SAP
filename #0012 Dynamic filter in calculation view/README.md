@@ -25,6 +25,7 @@ HANA Viewをクエリした際に、フィルタの値が都度変わるよう�
 では、実際にやっていきます。  
 
 ① 前年当年の8桁の値をOUTPUTするProcedureの作成  
+[DYNAMIC_FILTER_PROCEDURE](Procedure.sql)  
 <img width="700" alt="画像1.png" src="https://user-images.githubusercontent.com/125335793/219526917-eff3fa3c-22c8-493b-832a-8ec9b1cf4021.png">
 
 ProcedureのOUTPUT結果を確認します。  
