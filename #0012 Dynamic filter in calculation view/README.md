@@ -1,5 +1,5 @@
 # Dynamic filter in calculation view
-本記事では、Dynamic filterの概要及び作成手順を後述します。
+本記事では、Dynamic filterの概要及び作成手順を記載しております。
 
 内容
 ---
